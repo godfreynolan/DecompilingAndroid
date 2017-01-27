@@ -1,0 +1,417 @@
+<root>
+<header>
+   <magic>dex\n035\0</magic>
+   <checksum>628B4418</checksum>
+   <signature>DAA921CA9C4FB4C521D777BC2A184A380DA2AAFE</signature>
+   <file_size>0x00000450</file_size>
+   <header_size>0x00000070</header_size>
+   <link_size>0x00000000</link_size>
+   <link_offset>0x00000000</link_offset>
+   <map_offset>0x000003A4</map_offset>
+   <string_ids_size>26</string_ids_size>
+   <string_ids_offset>0x00000070</string_ids_offset> 
+   <type_ids_size>10</type_ids_size>
+   <type_ids_offset>0x000000D8</type_ids_offset> 
+   <proto_ids_size>7</proto_ids_size>
+   <proto_ids_offset>0x00000100</proto_ids_offset> 
+   <field_ids_size>3</field_ids_size>
+   <field_ids_offset>0x00000154</field_ids_offset> 
+   <method_ids_size>9</method_ids_size>
+   <method_ids_offset>0x0000016C</method_ids_offset> 
+   <class_defs_size>1</class_defs_size>
+   <class_defs_offset>0x000001B4</class_defs_offset> 
+   <data_size>0x0000027C</data_size>
+   <data_offset>0x000001D4</data_offset> 
+</header>
+<string_ids>
+   <string>
+       <id>0</id>
+       <address>0x00000272</address>
+   </string>
+   <string>
+       <id>1</id>
+       <address>0x0000027F</address>
+   </string>
+   <string>
+       <id>2</id>
+       <address>0x00000287</address>
+   </string>
+   <string>
+       <id>3</id>
+       <address>0x0000028A</address>
+   </string>
+   <string>
+       <id>4</id>
+       <address>0x00000298</address>
+   </string>
+   <string>
+       <id>5</id>
+       <address>0x0000029B</address>
+   </string>
+   <string>
+       <id>6</id>
+       <address>0x0000029E</address>
+   </string>
+   <string>
+       <id>7</id>
+       <address>0x000002A2</address>
+   </string>
+   <string>
+       <id>7</id>
+       <address>0x000002A2</address>
+   </string>
+   <string>
+       <id>8</id>
+       <address>0x000002AD</address>
+   </string>
+   <string>
+       <id>9</id>
+       <address>0x000002B1</address>
+   </string>
+   <string>
+       <id>10</id>
+       <address>0x000002B5</address>
+   </string>
+   <string>
+       <id>11</id>
+       <address>0x000002CC</address>
+   </string>
+   <string>
+       <id>12</id>
+       <address>0x000002E0</address>
+   </string>
+   <string>
+       <id>13</id>
+       <address>0x000002F4</address>
+   </string>
+   <string>
+       <id>13</id>
+       <address>0x000002F4</address>
+   </string>
+   <string>
+       <id>14</id>
+       <address>0x0000030F</address>
+   </string>
+   <string>
+       <id>15</id>
+       <address>0x00000323</address>
+   </string>
+   <string>
+       <id>16</id>
+       <address>0x00000326</address>
+   </string>
+   <string>
+       <id>17</id>
+       <address>0x0000032A</address>
+   </string>
+   <string>
+       <id>18</id>
+       <address>0x0000033F</address>
+   </string>
+   <string>
+       <id>19</id>
+       <address>0x00000347</address>
+   </string>
+   <string>
+       <id>20</id>
+       <address>0x0000034F</address>
+   </string>
+   <string>
+       <id>21</id>
+       <address>0x00000357</address>
+   </string>
+   <string>
+       <id>22</id>
+       <address>0x0000035F</address>
+   </string>
+   <string>
+       <id>23</id>
+       <address>0x00000365</address>
+   </string>
+   <string>
+       <id>24</id>
+       <address>0x0000036A</address>
+   </string>
+   <string>
+       <id>25</id>
+       <address>0x00000373</address>
+   </string>
+</string_ids>
+<type_ids>
+   <type>
+       <id>0</id>
+       <string_id>2</string_id>
+   </type>
+   <type>
+       <id>1</id>
+       <string_id>4</string_id>
+   </type>
+   <type>
+       <id>3</id>
+       <string_id>10</string_id>
+   </type>
+   <type>
+       <id>4</id>
+       <string_id>11</string_id>
+   </type>
+   <type>
+       <id>5</id>
+       <string_id>12</string_id>
+   </type>
+   <type>
+       <id>6</id>
+       <string_id>13</string_id>
+   </type>
+   <type>
+       <id>7</id>
+       <string_id>14</string_id>
+   </type>
+   <type>
+       <id>8</id>
+       <string_id>15</string_id>
+   </type>
+   <type>
+       <id>9</id>
+       <string_id>17</string_id>
+   </type>
+</type_ids>
+<proto_ids>
+   <proto>
+       <id>0</id>
+       <string_id>5</string_id>
+       <type_id>5</type_id>
+       <address>0x0</address>
+   </proto>
+   <proto>
+       <id>1</id>
+       <string_id>6</string_id>
+       <type_id>6</type_id>
+       <address>0x254</address>
+   </proto>
+   <proto>
+       <id>2</id>
+       <string_id>8</string_id>
+       <type_id>6</type_id>
+       <address>0x25c</address>
+   </proto>
+   <proto>
+       <id>3</id>
+       <string_id>9</string_id>
+       <type_id>6</type_id>
+       <address>0x264</address>
+   </proto>
+   <proto>
+       <id>4</id>
+       <string_id>15</string_id>
+       <type_id>8</type_id>
+       <data_off>0x0</data_off>
+   </proto>
+   <proto>
+       <id>5</id>
+       <string_id>10</string_id>
+       <type_id>8</type_id>
+       <address>0x264</address>
+   </proto>
+   <proto>
+       <id>6</id>
+       <string_id>10</string_id>
+       <type_id>8</type_id>
+       <address>0x26c</address>
+   </proto>
+</proto_ids>      
+<fields>
+   <field>
+       <id>0</id>
+       <type_id>2</type_id>
+       <type_id>4</type_id>
+       <string_id>19</string_id>
+   </field>
+   <field>
+       <id>1</id>
+       <type_id>2</type_id>
+       <type_id>5</type_id>
+       <string_id>21</string_id>
+   </field>
+   <field>
+       <id>0</id>
+       <type_id>7</type_id>
+       <type_id>3</type_id>
+       <string_id>23</string_id>
+   </field>
+</fields>
+<methods>
+   <method>
+       <id>0</id>
+       <type_id>2</type_id>
+       <proto_id>4</proto_id>
+       <string_id>1</string_id>
+   </method>
+   <method>
+       <id>1</id>
+       <type_id>2</type_id>
+       <proto_id>6</proto_id>
+       <string_id>22</string_id>
+   </method>
+   <method>
+       <id>2</id>
+       <type_id>3</type_id>
+       <proto_id>5</proto_id>
+       <string_id>24</string_id>
+   </method>
+   <method>
+       <id>3</id>
+       <type_id>4</type_id>
+       <proto_id>4</proto_id>
+       <string_id>1</string_id>
+   </method>
+   <method>
+       <id>4</id>
+       <type_id>6</type_id>
+       <proto_id>4</proto_id>
+       <string_id>1</string_id>
+   </method>
+   <method>
+       <id>5</id>
+       <type_id>6</type_id>
+       <proto_id>1</proto_id>
+       <string_id>18</string_id>
+   </method>
+   <method>
+       <id>6</id>
+       <type_id>6</type_id>
+       <proto_id>2</proto_id>
+       <string_id>18</string_id>
+   </method>
+   <method>
+       <id>7</id>
+       <type_id>6</type_id>
+       <proto_id>3</proto_id>
+       <string_id>18</string_id>
+   </method>
+   <method>
+       <id>8</id>
+       <type_id>6</type_id>
+       <proto_id>0</proto_id>
+       <string_id>25</string_id>
+   </method>
+</methods>
+<classes>
+   <class>
+       <id>0</id>
+       <type_id>2</type_id>
+       <access_flags>
+          <access_flag>public</access_flag>
+       </access_flags>
+       <type_id>4</type_id>
+       <address>0x0</address>
+       <string_id>3</string_id>
+       <address>0x0</address>
+       <address>0x00000392</address>
+       <address>0x0000038D</address>
+   </class>
+</classes>
+<data>
+   <class_data_items>
+       <class_data_item>
+          <static_field_size>2</static_field_size>
+          <instance_field_size>0</instance_field_size>
+          <direct_method_size>2</direct_method_size>
+          <virtual_method_size>0</virtual_method_size>
+          <static_fields>
+              <static_field>
+                 <id>0</id>
+                 <field_id>0</field_id>
+                 <access_flags>
+                     <access_flag>static</access_flag>
+                     <access_flag>final</access_flag>
+                 </access_flags>
+              </static_field>
+              <static_field>
+                 <id>1</id>
+                 <field_id>1</field_id>
+                 <access_flags>
+                     <access_flag>static</access_flag>
+                     <access_flag>final</access_flag>
+                 </access_flags>
+              </static_field>
+          </static_fields>
+          <instance_methods />
+          <direct_methods>
+              <direct_method>
+                 <id>0</id>
+                 <method_id>0</method_id>
+                 <access_flags>
+                     <access_flag>public</access_flag>
+                     <access_flag>constructor</access_flag>
+                 </access_flags>
+                 <address>0x1d4</address>
+              </direct_method>
+              <direct_method>
+                 <id>1</id>
+                 <method_id>1</method_id>
+                 <access_flags>
+                     <access_flag>public</access_flag>
+                     <access_flag>static</access_flag>
+                 </access_flags>
+                 <address>0x1ec</address>
+              </direct_method>
+          </direct_methods>
+          <virtual_methods />                  
+       </class_data_item>
+   </class_data_items>
+   <code_items>
+       <code_item>
+          <id>0</id>
+          <registers_size>1</registers_size>
+          <ins_size>1</ins_size>
+          <outs_size>1</outs_size>
+          <tries_size>0</tries_size>
+          <debug_info_off>0x37d</debug_info_off>
+          <insns_size>4</insns_size>
+          <insns>
+              <insn>invoke-direct {v0},java/lang/Object/init   ; init()V</insn>
+              <insn>return-void</insn>
+          </insns>
+          <padding />
+          <handlers />
+       </code_item>
+       <code_item>
+          <id>1</id>
+          <registers_size>5</registers_size>
+          <ins_size>1</ins_size>
+          <outs_size>2</outs_size>
+          <tries_size>0</tries_size>
+          <debug_info_off>0x382</debug_info_off>
+          <insns_size>44</insns_size>
+          <insns>
+ <insn>const/4  v0,0</insn>
+ <insn>const/16    v1,128</insn>
+ <insn>if-ge  v0,v1,l252</insn>
+ <insn>sget-object   v1,java/lang/System.out Ljava/io/PrintStream;</insn>
+ <insn>new-instance v2,java/lang/StringBuilder</insn>
+ <insn>invoke-direct {v2},java/lang/StringBuilder/init   ; init()V</insn>
+ <insn>const-string   v3,"ascii "</insn>
+ <insn>invoke-virtual {v2,v3},java/lang/StringBuilder/append   ; append(Ljava/lang/String;)Ljava/lang/StringBuilder;</insn>
+ <insn>move-result-object    v2</insn>
+ <insn>invoke-virtual {v2,v0},java/lang/StringBuilder/append   ; append(I)Ljava/lang/StringBuilder;</insn>
+ <insn>move-result-object    v2</insn>
+ <insn>const-string   v3," character "</insn>
+ <insn>invoke-virtual {v2,v3},java/lang/StringBuilder/append   ; append(Ljava/lang/String;)Ljava/lang/StringBuilder;</insn>
+ <insn>move-result-object    v2</insn>
+ <insn>invoke-virtual {v2,v0},java/lang/StringBuilder/append   ; append(C)Ljava/lang/StringBuilder;</insn>
+ <insn>move-result-object    v2</insn>
+ <insn>invoke-virtual {v2},java/lang/StringBuilder/toString   ; toString()Ljava/lang/String;</insn>
+ <insn>move-result-object    v2</insn>
+ <insn>invoke-virtual {v1,v2},java/io/PrintStream/println  ; println(Ljava/lang/String;)V</insn>
+ <insn>add-int/lit8 v0,v0,1</insn>
+ <insn>int-to-char v0,v0</insn>
+ <insn>goto  l1fe</insn>
+ <insn>return-void</insn>
+          </insns>
+          <padding />
+          <handlers />
+       </code_item>
+   </code_items>
+   </data>
+<link_data />
+</root>
